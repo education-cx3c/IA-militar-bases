@@ -213,3 +213,29 @@ Se solicita a este **Consejo Académico** la **revisión, validación y aprobaci
 | … | … | … | … | … | … |
 
 **Anexo B — Estructura de Repositorio (mínima):**
+
+---
+
+## ⚖️ Propiedad Intelectual y Reconocimiento del Curso
+
+El presente material ha sido desarrollado por **CX3C** como parte del **Programa de Formación en Inteligencia Artificial Aplicada a la Seguridad y la Defensa Nacional**.  
+Su contenido —incluyendo ejercicios, laboratorios, metodologías, prompts y resultados derivados— constituye **propiedad intelectual de CX3C** y se encuentra protegido por las leyes aplicables en materia de derechos de autor y uso académico.
+
+El material está destinado **exclusivamente para fines de capacitación y desarrollo profesional dentro del curso**, no pudiendo reproducirse ni distribuirse total o parcialmente sin la autorización expresa de **CX3C**.
+
+---
+
+## 🧠 Aporte al Conocimiento
+
+Este curso introduce y pone en práctica el concepto de **Prompt Cognitivo**, desarrollado por **CX3C** como parte de su modelo de **Co–creación Humano–IA**, donde la interacción con la Inteligencia Artificial se entiende como un **proceso de pensamiento estructurado, reflexivo y ético**, con **control humano significativo**.
+
+Cada ejercicio y laboratorio ha sido diseñado para:
+- Aplicar el razonamiento cognitivo asistido por IA en contextos académicos y operativos.  
+- Mostrar la trazabilidad del proceso **Humano–IA** como evidencia de pensamiento y aprendizaje.  
+- Contribuir a la consolidación de una **doctrina nacional de inteligencia artificial soberana**, basada en la ética, la transparencia y el pensamiento crítico.
+
+---
+
+**© CX3C – Programa de Educación y Doctrina en Inteligencia Artificial Aplicada**  
+*Versión académica 2025. Todos los derechos reservados.*
+
