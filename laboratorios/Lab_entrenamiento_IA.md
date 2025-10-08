@@ -26,7 +26,7 @@ Interfaz: Open WebUI (v0.6.3x o superior)
 Entorno Python: .venv con langchain, chromadb, pypdf  
 Archivo doctrinal: /lab-ia/doctrine/arte_de_la_guerra.pdf  
 
-![Conexión al entorno Ollama](img/03-conexion-entorno-ollama.png)
+![Conexión al entorno Ollama](laboratorios/img/03-conexion-entorno-ollama.png)
 
 ---
 
