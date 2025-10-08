@@ -61,8 +61,8 @@ pip install langchain langchain-community langchain-ollama langchain-chroma pypd
 mv /tmp/El_arte_de_la_guerra-Sun_Tzu.pdf $HOME/lab-ia/doctrine/arte_de_la_guerra.pdf
 python3 $HOME/lab-ia/rag/build_index.py
 
-![Configuración del modelo Gemma2:9b](img/04-configuracion-modelo.png)
-![Ejecución y creación del índice vectorial doctrinal](img/04-ejecucion-build-index.png)
+![Configuración del modelo Gemma2:9b](laboratorios/img/04-configuracion-modelo.png)
+![Ejecución y creación del índice vectorial doctrinal](laboratorios/img/04-ejecucion-build-index.png)
 
 ---
 
@@ -86,8 +86,8 @@ Propósito: observar cómo responde el modelo solo con su entrenamiento base.
    Dime los retos que enfrento al implementar un proyecto de IA privada on premise y local en una institución militar.
 3. Registra la respuesta obtenida.
 
-![Pregunta inicial desde ask_rag.py](img/05-pregunta-inicial-rag.png)
-![Resultado en Estado 0 (respuesta técnica)](img/06-resultado-estado0.png)
+![Pregunta inicial desde ask_rag.py](laboratorios/img/05-pregunta-inicial-rag.png)
+![Resultado en Estado 0 (respuesta técnica)](laboratorios/img/06-resultado-estado0.png)
 
 Resultado esperado: una respuesta técnica, centrada en infraestructura, seguridad y capacitación.
 
@@ -110,8 +110,8 @@ Entrega SIEMPRE:
 3) Artefactos listos (COA, LoE, Matriz Riesgo/Oportunidad, Indicadores de decisión)
 Sé conciso, operativo y trazable.
 
-![System Prompt doctrinal en Open WebUI](img/07-configuracion-systemprompt.png)
-![Panel con System Prompt configurado](img/07-systemprompt-config.png)
+![System Prompt doctrinal en Open WebUI](laboratorios/img/07-configuracion-systemprompt.png)
+![Panel con System Prompt configurado](laboratorios/img/07-systemprompt-config.png)
 
 2. Crea un nuevo chat y como primer mensaje escribe:
 
@@ -129,7 +129,7 @@ Respuesta (formato):
 
 3. Luego, repite la pregunta original.
 
-![Primer resultado entrenado (cognitivo)](img/08a-resultado-entrenado-inicial.png)
+![Primer resultado entrenado (cognitivo)](laboratorios/img/08a-resultado-entrenado-inicial.png)
 
 Resultado esperado: respuesta más analítica y estructurada, con objetivos, horizontes y líneas de esfuerzo.
 
@@ -150,7 +150,7 @@ Propósito: integrar doctrina (El Arte de la Guerra) para orientar el razonamien
 
 4. Copia la respuesta generada en consola y pégala como nuevo mensaje en el chat de Gemma.
 
-![Resultado final entrenado con RAG](img/09-resultado-final-rag.png)
+![Resultado final entrenado con RAG](laboratorios/img/09-resultado-final-rag.png)
 
 Resultado esperado: una respuesta con visión doctrinal, referencias implícitas a los principios de El Arte de la Guerra, lenguaje estratégico y análisis de riesgo/oportunidad.
 
